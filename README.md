@@ -5,3 +5,4 @@ There are several methods should be imported
 Firstly install PIL
 Secondly install tkcalendar
 
+All of the usernames and passwords are in coders.db database
